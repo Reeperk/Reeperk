@@ -7,7 +7,7 @@
 <h1 align="center">Hey, I'm Reeperk👋</h1>
 
 <div align="left">
-  <img height="200" src="https://lanyard.kyrie25.me/api/191600452712792065?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"/>
+  <img height="200" src="https://lanyard.cnrad.dev/api/191600452712792065"/>
 </div>
 
 ###
