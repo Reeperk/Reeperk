@@ -6,8 +6,4 @@
 
 <h1 align="center">Hey, I'm Reeperk👋</h1>
 
-<div align="left">
-  <img height="200" src="https://lanyard.cnrad.dev/api/191600452712792065"/>
-</div>
-
 ###
